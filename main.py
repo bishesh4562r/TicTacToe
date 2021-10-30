@@ -275,7 +275,6 @@ def clicker22():
         label2['text']="player'O''s turn"
     else:
         label2['text']="player'X''s turn"
-    button12['command']=cheat
 
     button22['command']=cheat
 
